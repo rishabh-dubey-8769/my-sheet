@@ -156,7 +156,6 @@ function toggleGlobalMenu(qn, buttonEl, qnNode) {
   const menuHtml = `
     <div class="global-options-dropdown" id="globalMenu">
       <button class="menu-item info-option" title="Question Info">
-        /*<span class="menu-icon">ℹ️</span>*/
         <img src="Info-logo.png" alt="Info Logo" class="menu-icon" />
         <span class="menu-label">Question Info</span>
       </button>
