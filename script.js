@@ -162,7 +162,7 @@ function toggleGlobalMenu(qn, buttonEl, qnNode) {
       ${hasYtLink ? `
         <a href="${qn.ytUrl}" target="_blank" rel="noopener" class="menu-item yt-option" title="Watch Video">
           <img src="You-Tube-logo.png" alt="YouTube Logo" class="menu-platform-img" />
-          <span class="menu-label">YouTube Tutorial</span>
+          <span class="menu-label">YouTube</span>
         </a>
       ` : ''}
       <button class="menu-item eye-option ${isOpen ? 'active' : ''}">
