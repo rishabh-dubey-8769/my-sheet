@@ -7,7 +7,14 @@ const sheetData = [
       {
         id: 1,
         title: "Find no. of Vowels",
-        info: "Add Info here.'\n' hello",
+        info: `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
         ytUrl: "https://www.youtube.com/watch?v=your_video_id",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
