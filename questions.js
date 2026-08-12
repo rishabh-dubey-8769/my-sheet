@@ -44,7 +44,7 @@ const sheetData = [
       {
         id: 3,
         title: "Find no. of Vowels",
-        ytUrl: "https://www.youtube.com",
+        ytUrl: "https://youtu.be/c8lY_qmXxpI?si=Gdi4FJotru-6OPpB",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
         solutionImages: [
