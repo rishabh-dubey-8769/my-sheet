@@ -1747,7 +1747,7 @@ const sheetData = [
     questions: [
       {
         id: 74,
-        title: "Sort the String",
+        title: "Connected Components",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -1757,18 +1757,18 @@ const sheetData = [
             </ul>
         `,
         ytUrl: "#",
-        platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/",
+        platform: "*",
+        platformUrl: "#",
         solutionImages: [
           {
-            src: "Questions/p51.png",
-            alt: "Solution :Sort the String"
+            src: "Questions/p25.1.png",
+            alt: "Solution :Connected Components"
           }
         ]
-      },
+      },    
       {
         id: 75,
-        title: "Find no. of Vowels",
+        title: "Number of Islands(BFS)",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -1779,18 +1779,429 @@ const sheetData = [
         `,
         ytUrl: "#",
         platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
+        platformUrl: "https://leetcode.com/problems/number-of-islands/description/",
         solutionImages: [
           {
-            src: "Questions/p51.1.png",
-            alt: "Solution :Find no. of Vowels"
-          },
-          {
-            src: "Questions/p51.png",
-            alt: "Solution :Find no. of Vowels"
+            src: "Questions/p26.1.png",
+            alt: "Solution :Number of Islands"
           }
         ]
-      }
+      },
+      {
+        id: 76,
+        title: "Number of Islands(DFS)",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/number-of-islands/description/",
+        solutionImages: [
+          {
+            src: "Questions/p27.1.png",
+            alt: "Solution :Number of Islands"
+          }
+        ]
+      },
+      {
+        id: 77,
+        title: "Number of Provinces",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/number-of-provinces/description/",
+        solutionImages: [
+          {
+            src: "Questions/p28.1.png",
+            alt: "Solution :Number of Provinces"
+          }
+        ]
+      },
+      {
+        id: 78,
+        title: "Flood Fill Algorithm",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/flood-fill/",
+        solutionImages: [
+          {
+            src: "Questions/p29.1.png",
+            alt: "Solution :Flood Fill Algorithm"
+          },
+          {
+            src: "Questions/p29.2.png",
+            alt: "Solution :Flood Fill Algorithm"
+          }          
+        ]
+      },
+      {
+        id: 79,
+        title: "Rotting Oranges",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/rotting-oranges/",
+        solutionImages: [
+          {
+            src: "Questions/p30.1.png",
+            alt: "Solution :Rotting Oranges"
+          }
+        ]
+      },
+      {
+        id: 80,
+        title: "Detect Cycle in Un-Directed Graph",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+        solutionImages: [
+          {
+            src: "Questions/p31.1.png",
+            alt: "Detect Cycle in Un-Directed Graph"
+          },
+          {
+            src: "Questions/p31.2.png",
+            alt: "Detect Cycle in Un-Directed Graph"
+          }          
+        ]
+      },
+      {
+        id: 81,
+        title: "Distance of nearest cell having 1 or (0-1) Matrix",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/01-matrix/description/",
+        solutionImages: [
+          {
+            src: "Questions/p32.1.png",
+            alt: "Solution : (0-1) Matrix"
+          }
+        ]
+      },
+      {
+        id: 82,
+        title: "Surrounded Regions",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/surrounded-regions/",
+        solutionImages: [
+          {
+            src: "Questions/p33.1.png",
+            alt: "Solution :Surrounded Regions"
+          }
+        ]
+      },
+      {
+        id: 83,
+        title: "Number of Enclaves",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/number-of-enclaves/",
+        solutionImages: [
+          {
+            src: "Questions/p34.1.png",
+            alt: "Solution :Number of Enclaves"
+          }
+        ]
+      },
+      {
+        id: 84,
+        title: "Number of Distinct Islands",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1",
+        solutionImages: [
+          {
+            src: "Questions/p35.1.png",
+            alt: "Solution :Number of Distinct Islands"
+          },
+          {
+            src: "Questions/p35.2.png",
+            alt: "Solution :Number of Distinct Islands"
+          }          
+        ]
+      },
+      {
+        id: 85,
+        title: "Bipartite Graph(gfg)",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/is-graph-bipartite/description/",
+        solutionImages: [
+          {
+            src: "Questions/p36.1.png",
+            alt: "Solution :Bipartite Graph"
+          }
+        ]
+      },
+      {
+        id: 86,
+        title: "Detect Cycle in Directed Graph",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+        solutionImages: [
+          {
+            src: "Questions/p37.1.png",
+            alt: "Solution :Detect Cycle in Directed Graph"
+          }
+        ]
+      },
+      {
+        id: 87,
+        title: "Find Eventual Safe States",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/eventual-safe-states/1",
+        solutionImages: [
+          {
+            src: "Questions/p38.1.png",
+            alt: "Solution :Find Eventual Safe States"
+          },
+          {
+            src: "Questions/p38.2.png",
+            alt: "Solution :Find Eventual Safe States"
+          }          
+        ]
+      },
+      {
+        id: 88,
+        title: "Topological Sorting(DFS)",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "*",
+        platformUrl: "#",
+        solutionImages: [
+          {
+            src: "Questions/p39.1.png",
+            alt: "Solution :Topological Sorting(DFS)"
+          }
+        ]
+      },
+      {
+        id: 40,
+        title: "Topological Sort",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/topological-sort/1",
+        solutionImages: [
+          {
+            src: "Questions/p40.1.png",
+            alt: "Solution :Topological Sort"
+          }
+        ]
+      },
+      {
+        id: 41,
+        title: "Topological Sort(Kahn's Algo)",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/topological-sort/1",
+        solutionImages: [
+          {
+            src: "Questions/p41.1.png",
+            alt: "Solution :Topological Sort"
+          }
+        ]
+      },
+      {
+        id: 42,
+        title: "Course Schedule",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/course-schedule/description/",
+        solutionImages: [
+          {
+            src: "Questions/p42.1.png",
+            alt: "Solution :Course Schedule"
+          }
+        ]
+      },
+      {
+        id: 43,
+        title: "Course Schedule-II",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/course-schedule-ii/",
+        solutionImages: [
+          {
+            src: "Questions/p43.1.png",
+            alt: "Solution :Course Schedule-II"
+          }
+        ]
+      },
+      {
+        id: 44,
+        title: "Find Eventual Safe States",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/find-eventual-safe-states/",
+        solutionImages: [
+          {
+            src: "Questions/p44.1.png",
+            alt: "Solution :Find Eventual Safe States"
+          }
+        ]
+      },
+      {
+        id: 45,
+        title: "Alien Dictionary",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/alien-dictionary/1",
+        solutionImages: [
+          {
+            src: "Questions/p45.1.png",
+            alt: "Solution :Alien Dictionary"
+          }
+        ]
+      },
     ]
   },
   // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Tries    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
