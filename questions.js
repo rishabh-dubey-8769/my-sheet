@@ -7,6 +7,7 @@ const sheetData = [
       {
         id: 1,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "https://www.youtube.com/watch?v=your_video_id",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -31,6 +32,7 @@ const sheetData = [
       {
         id: 2,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -44,6 +46,7 @@ const sheetData = [
       {
         id: 3,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "https://youtu.be/c8lY_qmXxpI?si=Gdi4FJotru-6OPpB",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -68,6 +71,7 @@ const sheetData = [
       {
         id: 4,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -81,6 +85,7 @@ const sheetData = [
       {
         id: 5,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -105,6 +110,7 @@ const sheetData = [
       {
         id: 5,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -118,6 +124,7 @@ const sheetData = [
       {
         id: 6,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -142,6 +149,7 @@ const sheetData = [
       {
         id: 7,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -155,6 +163,7 @@ const sheetData = [
       {
         id: 8,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -179,6 +188,7 @@ const sheetData = [
       {
         id: 9,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -192,6 +202,7 @@ const sheetData = [
       {
         id: 10,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -216,6 +227,7 @@ const sheetData = [
       {
         id: 11,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -229,6 +241,7 @@ const sheetData = [
       {
         id: 12,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -253,6 +266,7 @@ const sheetData = [
       {
         id: 13,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -266,6 +280,7 @@ const sheetData = [
       {
         id: 14,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -290,6 +305,7 @@ const sheetData = [
       {
         id: 15,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -303,6 +319,7 @@ const sheetData = [
       {
         id: 16,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -327,6 +344,7 @@ const sheetData = [
       {
         id: 17,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -340,6 +358,7 @@ const sheetData = [
       {
         id: 18,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -364,6 +383,7 @@ const sheetData = [
       {
         id: 19,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -377,6 +397,7 @@ const sheetData = [
       {
         id: 20,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -401,6 +422,7 @@ const sheetData = [
       {
         id: 21,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -414,6 +436,7 @@ const sheetData = [
       {
         id: 22,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -438,6 +461,7 @@ const sheetData = [
       {
         id: 23,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -451,6 +475,7 @@ const sheetData = [
       {
         id: 24,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -475,6 +500,7 @@ const sheetData = [
       {
         id: 22,
         title: "Introduction to Graph",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "*",
         platformUrl: "#",
@@ -488,6 +514,7 @@ const sheetData = [
       {
         id: 23,
         title: "Un-weighted Graph",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "*",
         platformUrl: "#",
@@ -501,6 +528,7 @@ const sheetData = [
       {
         id: 24,
         title: "Weighted Graph",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "*",
         platformUrl: "#",
@@ -514,6 +542,7 @@ const sheetData = [
       {
         id: 25,
         title: "Connected Components",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "*",
         platformUrl: "#",
@@ -527,6 +556,7 @@ const sheetData = [
       {
         id: 26,
         title: "Number of Islands(BFS)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/number-of-islands/description/",
@@ -540,6 +570,7 @@ const sheetData = [
       {
         id: 27,
         title: "Number of Islands(DFS)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/number-of-islands/description/",
@@ -553,6 +584,7 @@ const sheetData = [
       {
         id: 28,
         title: "Number of Provinces",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/number-of-provinces/description/",
@@ -566,6 +598,7 @@ const sheetData = [
       {
         id: 29,
         title: "Flood Fill Algorithm",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/flood-fill/",
@@ -583,6 +616,7 @@ const sheetData = [
       {
         id: 30,
         title: "Rotting Oranges",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/rotting-oranges/",
@@ -596,6 +630,7 @@ const sheetData = [
       {
         id: 31,
         title: "Detect Cycle in Un-Directed Graph",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
@@ -613,6 +648,7 @@ const sheetData = [
       {
         id: 32,
         title: "Distance of nearest cell having 1 or (0-1) Matrix",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/01-matrix/description/",
@@ -626,6 +662,7 @@ const sheetData = [
       {
         id: 33,
         title: "Surrounded Regions",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/surrounded-regions/",
@@ -639,6 +676,7 @@ const sheetData = [
       {
         id: 34,
         title: "Number of Enclaves",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/number-of-enclaves/",
@@ -652,6 +690,7 @@ const sheetData = [
       {
         id: 35,
         title: "Number of Distinct Islands",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1",
@@ -669,6 +708,7 @@ const sheetData = [
       {
         id: 36,
         title: "Bipartite Graph(gfg)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/is-graph-bipartite/description/",
@@ -682,6 +722,7 @@ const sheetData = [
       {
         id: 37,
         title: "Detect Cycle in Directed Graph",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
@@ -695,6 +736,7 @@ const sheetData = [
       {
         id: 38,
         title: "Find Eventual Safe States",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/eventual-safe-states/1",
@@ -712,6 +754,7 @@ const sheetData = [
       {
         id: 39,
         title: "Topological Sorting(DFS)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "*",
         platformUrl: "#",
@@ -725,6 +768,7 @@ const sheetData = [
       {
         id: 40,
         title: "Topological Sort",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/topological-sort/1",
@@ -738,6 +782,7 @@ const sheetData = [
       {
         id: 41,
         title: "Topological Sort(Kahn's Algo)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/topological-sort/1",
@@ -751,6 +796,7 @@ const sheetData = [
       {
         id: 42,
         title: "Course Schedule",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/course-schedule/description/",
@@ -764,6 +810,7 @@ const sheetData = [
       {
         id: 43,
         title: "Course Schedule-II",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/course-schedule-ii/",
@@ -777,6 +824,7 @@ const sheetData = [
       {
         id: 44,
         title: "Find Eventual Safe States",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/find-eventual-safe-states/",
@@ -790,6 +838,7 @@ const sheetData = [
       {
         id: 45,
         title: "Alien Dictionary",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/alien-dictionary/1",
@@ -803,6 +852,7 @@ const sheetData = [
       {
         id: 46,
         title: "Shortest path in Directed Acyclic Graph",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/shortest-path-in-directed-acyclic-graph/1",
@@ -816,6 +866,7 @@ const sheetData = [
       {
         id: 47,
         title: "Shortest Path in Unweighted Graph",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
@@ -829,6 +880,7 @@ const sheetData = [
       {
         id: 48,
         title: "Word Ladder",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/word-ladder/description/",
@@ -842,6 +894,7 @@ const sheetData = [
       {
         id: 49,
         title: "Word Ladder II (🚫for Interview)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/word-ladder-ii/description/",
@@ -855,6 +908,7 @@ const sheetData = [
       {
         id: 50,
         title: "Word Ladder II (✅for Interview)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/word-ladder-ii/description/",
@@ -868,6 +922,7 @@ const sheetData = [
       {
         id: 51,
         title: "Network Delay Time",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/network-delay-time/description/",
@@ -881,6 +936,7 @@ const sheetData = [
       {
         id: 52,
         title: "Shortest Path in Weighted-Undirected Graph",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1",
@@ -894,6 +950,7 @@ const sheetData = [
       {
         id: 53,
         title: "Shortest Path in Binary Matrix/Maze",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/shortest-path-in-binary-matrix/description/",
@@ -907,6 +964,7 @@ const sheetData = [
       {
         id: 54,
         title: "Path With Minimum Effort",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/path-with-minimum-effort/description/",
@@ -920,6 +978,7 @@ const sheetData = [
       {
         id: 55,
         title: "Cheapest Flights Within K Stops",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
@@ -933,6 +992,7 @@ const sheetData = [
       {
         id: 56,
         title: "Minimum Multiplications to reach End",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
@@ -946,6 +1006,7 @@ const sheetData = [
       {
         id: 57,
         title: "Number of Ways to Arrive at Destination",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
@@ -959,6 +1020,7 @@ const sheetData = [
       {
         id: 58,
         title: "Bellman Ford Algorithm",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
@@ -972,6 +1034,7 @@ const sheetData = [
       {
         id: 59,
         title: "Floyd Warshall Algorithm",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
@@ -985,6 +1048,7 @@ const sheetData = [
       {
         id: 60,
         title: "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/",
@@ -998,6 +1062,7 @@ const sheetData = [
       {
         id: 61,
         title: "Minimum Spanning Tree(MST)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "*",
         platformUrl: "#",
@@ -1011,6 +1076,7 @@ const sheetData = [
       {
         id: 62,
         title: "Minimum Spanning Tree(Prims's Algorithm)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
@@ -1024,6 +1090,7 @@ const sheetData = [
       {
         id: 63,
         title: "DSU by-(Rank/Size)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "*",
         platformUrl: "#",
@@ -1037,6 +1104,7 @@ const sheetData = [
       {
         id: 64,
         title: "Minimum Spanning Tree(Kruskal's Algorithm)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/minimum-spanning-tree-kruskals-algorithm/1",
@@ -1050,6 +1118,7 @@ const sheetData = [
       {
         id: 65,
         title: "Number of Provinces(DSU)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/number-of-provinces/description/",
@@ -1063,6 +1132,7 @@ const sheetData = [
       {
         id: 66,
         title: "Number of Operations to Make Network Connected",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/number-of-operations-to-make-network-connected/description/",
@@ -1076,6 +1146,7 @@ const sheetData = [
       {
         id: 67,
         title: "Accounts Merge",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/accounts-merge/description/",
@@ -1089,6 +1160,7 @@ const sheetData = [
       {
         id: 68,
         title: "Number of Islands(DSU)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/number-of-islands/description/",
@@ -1102,6 +1174,7 @@ const sheetData = [
       {
         id: 69,
         title: "Making A Large Island",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/making-a-large-island/description/",
@@ -1115,6 +1188,7 @@ const sheetData = [
       {
         id: 70,
         title: "Most Stones Removed with Same Row or Column",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/",
@@ -1128,6 +1202,7 @@ const sheetData = [
       {
         id: 71,
         title: "Count Strongly Connected Components(Kosaraju's Algorithm)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
@@ -1141,6 +1216,7 @@ const sheetData = [
       {
         id: 72,
         title: "Critical Connections in a Network(Tarjan's Bridge Algorithm)",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/problems/critical-connections-in-a-network/description/",
@@ -1154,6 +1230,7 @@ const sheetData = [
       {
         id: 73,
         title: "Articulation Point",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/problems/articulation-point2616/1",
@@ -1174,6 +1251,7 @@ const sheetData = [
       {
         id: 74,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -1187,6 +1265,7 @@ const sheetData = [
       {
         id: 75,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -1211,6 +1290,7 @@ const sheetData = [
       {
         id: 76,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -1224,6 +1304,7 @@ const sheetData = [
       {
         id: 77,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -1248,6 +1329,7 @@ const sheetData = [
       {
         id: 78,
         title: "Sort the String",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -1261,6 +1343,7 @@ const sheetData = [
       {
         id: 79,
         title: "Find no. of Vowels",
+        info: "Add Info here.",
         ytUrl: "#",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
