@@ -1,5 +1,5 @@
 const sheetData = [
-  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     SORTING    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      SORTING    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "sorting",
     topicTitle: "Sorting",
@@ -22,7 +22,7 @@ const sheetData = [
       }
     ]
   },  
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     ARRAYS    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      ARRAYS    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "arrays",
     topicTitle: "Arrays",
@@ -57,8 +57,7 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     BINARY SEARCH    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      BINARY SEARCH    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "binary-search",
     topicTitle: "Binary Search",
@@ -93,8 +92,7 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Strings    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Strings    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Strings",
     topicTitle: "Strings",
@@ -129,8 +127,7 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Linked List    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Linked List    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Linked-List",
     topicTitle: "Linked List",
@@ -165,8 +162,7 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Recursion    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Recursion    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Recursion",
     topicTitle: "Recursion",
@@ -201,8 +197,7 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Bit Manipulation    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Bit Manipulation    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Bit-Manipulation",
     topicTitle: "Bit Manipulation",
@@ -237,8 +232,7 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Stacks & Queue    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Stacks & Queue    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Stacks-&-Queue",
     topicTitle: "Stacks & Queue",
@@ -273,8 +267,7 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Sliding Window & Two Pointers    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Sliding Window & Two Pointers    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Sliding-Window-&-Two-Pointers",
     topicTitle: "Sliding Window & Two Pointers",
@@ -309,14 +302,13 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Heaps    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Heaps    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Heaps",
     topicTitle: "Heaps",
     questions: [
       {
-        id: 1,
+        id: 17,
         title: "Sort the String",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -328,7 +320,7 @@ const sheetData = [
         ]
       },
       {
-        id: 2,
+        id: 18,
         title: "Find no. of Vowels",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -345,13 +337,13 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Greedy Algorithms    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Greedy Algorithms    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Greedy-Algorithms",
     topicTitle: "Greedy Algorithms",
     questions: [
       {
-        id: 1,
+        id: 19,
         title: "Sort the String",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -363,7 +355,7 @@ const sheetData = [
         ]
       },
       {
-        id: 2,
+        id: 20,
         title: "Find no. of Vowels",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -380,14 +372,13 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Binary Tree    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Binary Tree    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Binary-Tree",
     topicTitle: "Binary Tree",
     questions: [
       {
-        id: 1,
+        id: 21,
         title: "Sort the String",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -399,7 +390,7 @@ const sheetData = [
         ]
       },
       {
-        id: 2,
+        id: 22,
         title: "Find no. of Vowels",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -416,14 +407,13 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Binary Search Tree    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Binary Search Tree    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Binary-Search-Tree",
     topicTitle: "Binary-Search-Tree",
     questions: [
       {
-        id: 1,
+        id: 23,
         title: "Sort the String",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -435,7 +425,7 @@ const sheetData = [
         ]
       },
       {
-        id: 2,
+        id: 24,
         title: "Find no. of Vowels",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -452,8 +442,7 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Graph    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Graph    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Graph",
     topicTitle: "Graph",
@@ -461,8 +450,8 @@ const sheetData = [
       {
         id: 22,
         title: "Introduction to Graph",
-        // platform: "GFG",
-        // platformUrl: "https://www.geeksforgeeks.org/",
+        platform: "*",
+        platformUrl: "#",
         solutionImages: [
           {
             src: "Questions/p22.1.png",
@@ -473,8 +462,8 @@ const sheetData = [
       {
         id: 23,
         title: "Un-weighted Graph",
-        // platform: "GFG",
-        // platformUrl: "https://www.geeksforgeeks.org/",
+        platform: "*",
+        platformUrl: "#",
         solutionImages: [
           {
             src: "Questions/p23.1.png",
@@ -485,8 +474,8 @@ const sheetData = [
       {
         id: 24,
         title: "Weighted Graph",
-        // platform: "GFG",
-        // platformUrl: "https://www.geeksforgeeks.org/",
+        platform: "*",
+        platformUrl: "#",
         solutionImages: [
           {
             src: "Questions/p24.1.png",
@@ -497,8 +486,8 @@ const sheetData = [
       {
         id: 25,
         title: "Connected Components",
-        // platform: "GFG",
-        // platformUrl: "https://www.geeksforgeeks.org/",
+        platform: "*",
+        platformUrl: "#",
         solutionImages: [
           {
             src: "Questions/p25.1.png",
@@ -518,7 +507,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 27,
         title: "Number of Islands(DFS)",
@@ -531,7 +519,6 @@ const sheetData = [
           }
         ]
       },
-      
       {
         id: 28,
         title: "Number of Provinces",
@@ -544,7 +531,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 29,
         title: "Flood Fill Algorithm",
@@ -561,7 +547,6 @@ const sheetData = [
           }          
         ]
       },
-
       {
         id: 30,
         title: "Rotting Oranges",
@@ -574,8 +559,6 @@ const sheetData = [
           }
         ]
       },
-
-
       {
         id: 31,
         title: "Detect Cycle in Un-Directed Graph",
@@ -592,7 +575,6 @@ const sheetData = [
           }          
         ]
       },
-
       {
         id: 32,
         title: "Distance of nearest cell having 1 or (0-1) Matrix",
@@ -605,7 +587,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 33,
         title: "Surrounded Regions",
@@ -618,7 +599,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 34,
         title: "Number of Enclaves",
@@ -631,7 +611,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 35,
         title: "Number of Distinct Islands",
@@ -648,7 +627,6 @@ const sheetData = [
           }          
         ]
       },
-
       {
         id: 36,
         title: "Bipartite Graph(gfg)",
@@ -661,7 +639,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 37,
         title: "Detect Cycle in Directed Graph",
@@ -674,7 +651,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 38,
         title: "Find Eventual Safe States",
@@ -691,12 +667,11 @@ const sheetData = [
           }          
         ]
       },
-
       {
         id: 39,
         title: "Topological Sorting(DFS)",
-        // platform: "LeetCode",
-        // platformUrl: "https://leetcode.com/problems/is-graph-bipartite/description/",
+        platform: "*",
+        platformUrl: "#",
         solutionImages: [
           {
             src: "Questions/p39.1.png",
@@ -704,7 +679,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 40,
         title: "Topological Sort",
@@ -717,7 +691,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 41,
         title: "Topological Sort(Kahn's Algo)",
@@ -730,7 +703,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 42,
         title: "Course Schedule",
@@ -743,7 +715,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 43,
         title: "Course Schedule-II",
@@ -756,7 +727,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 44,
         title: "Find Eventual Safe States",
@@ -769,7 +739,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 45,
         title: "Alien Dictionary",
@@ -782,7 +751,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 46,
         title: "Shortest path in Directed Acyclic Graph",
@@ -795,7 +763,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 47,
         title: "Shortest Path in Unweighted Graph",
@@ -808,7 +775,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 48,
         title: "Word Ladder",
@@ -821,7 +787,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 49,
         title: "Word Ladder II (🚫for Interview)",
@@ -834,7 +799,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 50,
         title: "Word Ladder II (✅for Interview)",
@@ -847,7 +811,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 51,
         title: "Network Delay Time",
@@ -860,7 +823,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 52,
         title: "Shortest Path in Weighted-Undirected Graph",
@@ -873,7 +835,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 53,
         title: "Shortest Path in Binary Matrix/Maze",
@@ -886,7 +847,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 54,
         title: "Path With Minimum Effort",
@@ -899,7 +859,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 55,
         title: "Cheapest Flights Within K Stops",
@@ -912,7 +871,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 56,
         title: "Minimum Multiplications to reach End",
@@ -925,7 +883,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 57,
         title: "Number of Ways to Arrive at Destination",
@@ -938,7 +895,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 58,
         title: "Bellman Ford Algorithm",
@@ -951,7 +907,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 59,
         title: "Floyd Warshall Algorithm",
@@ -964,7 +919,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 60,
         title: "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
@@ -977,11 +931,10 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 61,
         title: "Minimum Spanning Tree(MST)",
-        platform: "LeetCode",
+        platform: "*",
         platformUrl: "#",
         solutionImages: [
           {
@@ -990,7 +943,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 62,
         title: "Minimum Spanning Tree(Prims's Algorithm)",
@@ -1003,11 +955,10 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 63,
         title: "DSU by-(Rank/Size)",
-        platform: "LeetCode",
+        platform: "*",
         platformUrl: "#",
         solutionImages: [
           {
@@ -1016,7 +967,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 64,
         title: "Minimum Spanning Tree(Kruskal's Algorithm)",
@@ -1029,7 +979,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 65,
         title: "Number of Provinces(DSU)",
@@ -1042,7 +991,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 66,
         title: "Number of Operations to Make Network Connected",
@@ -1055,7 +1003,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 67,
         title: "Accounts Merge",
@@ -1068,7 +1015,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 68,
         title: "Number of Islands(DSU)",
@@ -1081,7 +1027,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 69,
         title: "Making A Large Island",
@@ -1094,7 +1039,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 70,
         title: "Most Stones Removed with Same Row or Column",
@@ -1107,7 +1051,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 71,
         title: "Count Strongly Connected Components(Kosaraju's Algorithm)",
@@ -1120,7 +1063,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 72,
         title: "Critical Connections in a Network(Tarjan's Bridge Algorithm)",
@@ -1133,7 +1075,6 @@ const sheetData = [
           }
         ]
       },
-
       {
         id: 73,
         title: "Articulation Point",
@@ -1145,23 +1086,16 @@ const sheetData = [
             alt: "Solution :Articulation Point"
           }
         ]
-      },
-
-
-
-
-
-       
+      }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Dynamic Programming    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Dynamic Programming    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Dynamic Programming",
     topicTitle: "Dynamic Programming",
     questions: [
       {
-        id: 1,
+        id: 74,
         title: "Sort the String",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -1173,7 +1107,7 @@ const sheetData = [
         ]
       },
       {
-        id: 2,
+        id: 75,
         title: "Find no. of Vowels",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -1190,14 +1124,13 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Tries    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Tries    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Tries",
     topicTitle: "Tries",
     questions: [
       {
-        id: 1,
+        id: 76,
         title: "Sort the String",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -1209,7 +1142,7 @@ const sheetData = [
         ]
       },
       {
-        id: 2,
+        id: 77,
         title: "Find no. of Vowels",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -1226,13 +1159,13 @@ const sheetData = [
       }
     ]
   },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Strings(Hard)    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Strings(Hard)    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
     topicId: "Strings(Hard)",
     topicTitle: "Strings (Hard)*",
     questions: [
       {
-        id: 1,
+        id: 78,
         title: "Sort the String",
         platform: "GFG",
         platformUrl: "https://www.geeksforgeeks.org/",
@@ -1244,7 +1177,7 @@ const sheetData = [
         ]
       },
       {
-        id: 2,
+        id: 79,
         title: "Find no. of Vowels",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
@@ -1260,13 +1193,5 @@ const sheetData = [
         ]
       }
     ]
-  },
-    // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     Next Topic    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-
-
-
-  
-  
+  }
 ];
