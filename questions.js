@@ -7,7 +7,7 @@ const sheetData = [
       {
         id: 1,
         title: "Find no. of Vowels",
-        info: "Add Info here.",
+        info: "Add Info here.'\n' hello",
         ytUrl: "https://www.youtube.com/watch?v=your_video_id",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
