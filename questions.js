@@ -7,6 +7,7 @@ const sheetData = [
       {
         id: 1,
         title: "Find no. of Vowels",
+        ytUrl: "https://www.youtube.com/watch?v=your_video_id",
         platform: "LeetCode",
         platformUrl: "https://leetcode.com/",
         solutionImages: [
