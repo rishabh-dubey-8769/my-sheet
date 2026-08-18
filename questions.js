@@ -196,7 +196,375 @@ const sheetData = [
     topicTitle: "Linked List",
     questions: [
       {
-        id: 7,
+        id: 189,
+        title: "Convert Array to Linked List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/introduction-to-linked-list/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Convert Array to Linked List"
+          }
+        ]
+      },
+      {
+        id: 190,
+        title: "Linked List Traversal",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/linkedlist-traversal/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution : Linked List Traversal"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution : Linked List Traversal"
+          }
+        ]
+      },
+      {
+        id: 191,
+        title: "Length of Linked List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Length of Linked List"
+          }
+        ]
+      },
+      {
+        id: 192,
+        title: "Linked List Insertion At Beginning",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/linked-list-insertion-at-beginning/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Linked List Insertion At Beginning"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Linked List Insertion At Beginning"
+          }
+        ]
+      },
+      {
+        id: 193,
+        title: "Delete Node in a Linked List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/delete-node-in-a-linked-list/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Delete Node in a Linked List"
+          }
+        ]
+      },
+      {
+        id: 194,
+        title: "Search in Linked List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Search in Linked List"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Search in Linked List"
+          }
+        ]
+      },
+      {
+        id: 195,
+        title: "Introduction to Doubly LL",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Introduction to Doubly LL"
+          }
+        ]
+      },
+      {
+        id: 196,
+        title: "Insertion in a Doubly Linked List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Insertion in a Doubly Linked List"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Insertion in a Doubly Linked List"
+          }
+        ]
+      },
+      {
+        id: 197,
+        title: "Delete Head of Doubly Linked List ",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/delete-head-of-doubly-linked-list/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Delete Head of Doubly Linked List "
+          }
+        ]
+      },
+      {
+        id: 198,
+        title: "Reverse a Doubly Linked List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Reverse a Doubly Linked List"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Reverse a Doubly Linked List"
+          }
+        ]
+      },
+      {
+        id: 199,
+        title: "Middle of a LinkedList [TortoiseHare Method]",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/middle-of-the-linked-list/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Middle of a LinkedList [TortoiseHare Method]"
+          }
+        ]
+      },
+      {
+        id: 200,
+        title: "Reverse a LinkedList [Iterative]",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/reverse-linked-list/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 201,
+        title: "Reverse a LL",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/reverse-linked-list/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Reverse a LL"
+          }
+        ]
+      },
+      {
+        id: 202,
+        title: "Detect Cycle in LL",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/linked-list-cycle/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Detect Cycle in LL"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Detect Cycle in LL"
+          }
+        ]
+      },
+      {
+        id: 203,
+        title: "Cycle in Linked List-II",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/linked-list-cycle-ii/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Cycle in Linked List-II"
+          }
+        ]
+      },
+      {
+        id: 204,
+        title: "**Length of loop in LL**",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 205,
         title: "Sort the String",
         info:  `
             <p>Key points to remember:</p>
@@ -217,7 +585,7 @@ const sheetData = [
         ]
       },
       {
-        id: 8,
+        id: 206,
         title: "Find no. of Vowels",
         info:  `
             <p>Key points to remember:</p>
@@ -240,7 +608,237 @@ const sheetData = [
             alt: "Solution :Find no. of Vowels"
           }
         ]
-      }
+      },
+      {
+        id: 207,
+        title: "Sort the String",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 208,
+        title: "Find no. of Vowels",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 209,
+        title: "Sort the String",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 210,
+        title: "Find no. of Vowels",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 211,
+        title: "Sort the String",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 212,
+        title: "Find no. of Vowels",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 213,
+        title: "Sort the String",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 214,
+        title: "Find no. of Vowels",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 215,
+        title: "Sort the String",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 216,
+        title: "Find no. of Vowels",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      }      
     ]
   },
   // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      Recursion    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
