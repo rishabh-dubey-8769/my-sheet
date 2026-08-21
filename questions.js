@@ -795,7 +795,7 @@ const sheetData = [
       },
       {
         id: 999,
-        title: "Sort the String",
+        title: "Find me part-1",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -816,7 +816,7 @@ const sheetData = [
       },
       {
         id: 1000,
-        title: "Find no. of Vowels",
+        title: "Find me part-2",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
