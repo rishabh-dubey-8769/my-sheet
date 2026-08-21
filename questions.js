@@ -540,32 +540,7 @@ const sheetData = [
       },
       {
         id: 204,
-        title: "**Length of loop in LL**",
-        info:  `
-            <p>Key points to remember:</p>
-            <ul style="margin-left: 20px; margin-top: 8px;">
-              <li>Use a HashSet to store vowels for O(1) lookups.</li>
-              <li>Iterate through the string in O(N) time complexity.</li>
-              <li>Space Complexity: O(1) constant auxiliary space.</li>
-            </ul>
-        `,
-        ytUrl: "#",
-        platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
-        solutionImages: [
-          {
-            src: "Questions/p51.1.png",
-            alt: "Solution :Find no. of Vowels"
-          },
-          {
-            src: "Questions/p51.png",
-            alt: "Solution :Find no. of Vowels"
-          }
-        ]
-      },
-      {
-        id: 205,
-        title: "Sort the String",
+        title: "Cycle Length in Linked List",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -576,17 +551,21 @@ const sheetData = [
         `,
         ytUrl: "#",
         platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/",
+        platformUrl: "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
         solutionImages: [
           {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Cycle Length in Linked List"
+          },
+          {
             src: "Questions/p51.png",
-            alt: "Solution :Sort the String"
+            alt: "Solution :Cycle Length in Linked List"
           }
         ]
       },
       {
-        id: 206,
-        title: "Find no. of Vowels",
+        id: 205,
+        title: "Palindrome Linked List",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -597,7 +576,28 @@ const sheetData = [
         `,
         ytUrl: "#",
         platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
+        platformUrl: "https://leetcode.com/problems/palindrome-linked-list/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Palindrome Linked List"
+          }
+        ]
+      },
+      {
+        id: 206,
+        title: "Odd Even Linked List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/odd-even-linked-list/description/",
         solutionImages: [
           {
             src: "Questions/p51.1.png",
@@ -611,7 +611,7 @@ const sheetData = [
       },
       {
         id: 207,
-        title: "Sort the String",
+        title: "Remove Nth Node From End of List",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -621,8 +621,8 @@ const sheetData = [
             </ul>
         `,
         ytUrl: "#",
-        platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/",
+        platform: "LeeetCode",
+        platformUrl: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/",
         solutionImages: [
           {
             src: "Questions/p51.png",
@@ -632,7 +632,7 @@ const sheetData = [
       },
       {
         id: 208,
-        title: "Find no. of Vowels",
+        title: "Delete the Middle Node of a Linked List",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -643,7 +643,7 @@ const sheetData = [
         `,
         ytUrl: "#",
         platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
+        platformUrl: "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/",
         solutionImages: [
           {
             src: "Questions/p51.1.png",
@@ -657,28 +657,7 @@ const sheetData = [
       },
       {
         id: 209,
-        title: "Sort the String",
-        info:  `
-            <p>Key points to remember:</p>
-            <ul style="margin-left: 20px; margin-top: 8px;">
-              <li>Use a HashSet to store vowels for O(1) lookups.</li>
-              <li>Iterate through the string in O(N) time complexity.</li>
-              <li>Space Complexity: O(1) constant auxiliary space.</li>
-            </ul>
-        `,
-        ytUrl: "#",
-        platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/",
-        solutionImages: [
-          {
-            src: "Questions/p51.png",
-            alt: "Solution :Sort the String"
-          }
-        ]
-      },
-      {
-        id: 210,
-        title: "Find no. of Vowels",
+        title: "Sort List",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -689,7 +668,28 @@ const sheetData = [
         `,
         ytUrl: "#",
         platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
+        platformUrl: "https://leetcode.com/problems/sort-list/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 210,
+        title: "Sort a linked list of 0s, 1s and 2s",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
         solutionImages: [
           {
             src: "Questions/p51.1.png",
@@ -703,28 +703,7 @@ const sheetData = [
       },
       {
         id: 211,
-        title: "Sort the String",
-        info:  `
-            <p>Key points to remember:</p>
-            <ul style="margin-left: 20px; margin-top: 8px;">
-              <li>Use a HashSet to store vowels for O(1) lookups.</li>
-              <li>Iterate through the string in O(N) time complexity.</li>
-              <li>Space Complexity: O(1) constant auxiliary space.</li>
-            </ul>
-        `,
-        ytUrl: "#",
-        platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/",
-        solutionImages: [
-          {
-            src: "Questions/p51.png",
-            alt: "Solution :Sort the String"
-          }
-        ]
-      },
-      {
-        id: 212,
-        title: "Find no. of Vowels",
+        title: "Intersection of Two Linked Lists",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -735,7 +714,28 @@ const sheetData = [
         `,
         ytUrl: "#",
         platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
+        platformUrl: "https://leetcode.com/problems/intersection-of-two-linked-lists/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 212,
+        title: "Add 1 to a Linked List Number",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
         solutionImages: [
           {
             src: "Questions/p51.1.png",
@@ -749,7 +749,7 @@ const sheetData = [
       },
       {
         id: 213,
-        title: "Sort the String",
+        title: "Add Two Numbers",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -759,8 +759,8 @@ const sheetData = [
             </ul>
         `,
         ytUrl: "#",
-        platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/add-two-numbers/description/",
         solutionImages: [
           {
             src: "Questions/p51.png",
