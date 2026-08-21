@@ -473,7 +473,7 @@ const sheetData = [
       },
       {
         id: 201,
-        title: "Reverse a LL",
+        title: "Reverse a LL [Recursive]",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
