@@ -171,7 +171,9 @@ function toggleGlobalMenu(qn, buttonEl, qnNode) {
       </button>
       ${hasPlatformLink ? `
         <a href="${qn.platformUrl}" target="_blank" rel="noopener" class="menu-item platform-option">
-          <img src="${logoSrc}" alt="${qn.platform} Logo" class="menu-platform-img" />
+          <span class="menu-icon">
+            <img src="${logoSrc}" alt="${qn.platform} Logo" class="menu-platform-img" />
+          </span>
           <span class="menu-label">${qn.platform}</span>
         </a>
       ` : ''}
