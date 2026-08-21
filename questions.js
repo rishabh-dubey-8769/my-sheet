@@ -1,3 +1,53 @@
+      // {
+      //   id: 208,
+      //   title: "Delete the Middle Node of a Linked List",
+      //   info:  `
+      //       <p>Key points to remember:</p>
+      //       <ul style="margin-left: 20px; margin-top: 8px;">
+      //         <li>Use a HashSet to store vowels for O(1) lookups.</li>
+      //         <li>Iterate through the string in O(N) time complexity.</li>
+      //         <li>Space Complexity: O(1) constant auxiliary space.</li>
+      //       </ul>
+      //   `,
+      //   ytUrl: "#",
+      //   platform: "LeetCode",
+      //   platformUrl: "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/",
+      //   solutionImages: [
+      //     {
+      //       src: "Questions/p51.1.png",
+      //       alt: "Solution :Find no. of Vowels"
+      //     },
+      //     {
+      //       src: "Questions/p51.png",
+      //       alt: "Solution :Find no. of Vowels"
+      //     }
+      //   ]
+      // },
+      // {
+      //   id: 209,
+      //   title: "Sort List",
+      //   info:  `
+      //       <p>Key points to remember:</p>
+      //       <ul style="margin-left: 20px; margin-top: 8px;">
+      //         <li>Use a HashSet to store vowels for O(1) lookups.</li>
+      //         <li>Iterate through the string in O(N) time complexity.</li>
+      //         <li>Space Complexity: O(1) constant auxiliary space.</li>
+      //       </ul>
+      //   `,
+      //   ytUrl: "#",
+      //   platform: "LeetCode",
+      //   platformUrl: "https://leetcode.com/problems/sort-list/description/",
+      //   solutionImages: [
+      //     {
+      //       src: "Questions/p51.png",
+      //       alt: "Solution :Sort the String"
+      //     }
+      //   ]
+      // },
+
+
+
+
 const sheetData = [
   // +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++      SORTING    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
   {
@@ -770,32 +820,7 @@ const sheetData = [
       },
       {
         id: 214,
-        title: "Find no. of Vowels",
-        info:  `
-            <p>Key points to remember:</p>
-            <ul style="margin-left: 20px; margin-top: 8px;">
-              <li>Use a HashSet to store vowels for O(1) lookups.</li>
-              <li>Iterate through the string in O(N) time complexity.</li>
-              <li>Space Complexity: O(1) constant auxiliary space.</li>
-            </ul>
-        `,
-        ytUrl: "#",
-        platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
-        solutionImages: [
-          {
-            src: "Questions/p51.1.png",
-            alt: "Solution :Find no. of Vowels"
-          },
-          {
-            src: "Questions/p51.png",
-            alt: "Solution :Find no. of Vowels"
-          }
-        ]
-      },
-      {
-        id: 999,
-        title: "Find me part-1",
+        title: "Delete All Occurrences in DLL",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -806,7 +831,32 @@ const sheetData = [
         `,
         ytUrl: "#",
         platform: "GFG",
-        platformUrl: "https://www.geeksforgeeks.org/",
+        platformUrl: "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 215,
+        title: "Pair Sum in Sorted Doubly Linked List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
         solutionImages: [
           {
             src: "Questions/p51.png",
@@ -815,8 +865,33 @@ const sheetData = [
         ]
       },
       {
-        id: 1000,
-        title: "Find me part-2",
+        id: 216,
+        title: "Remove duplicates from a sorted DLL",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 217,
+        title: "Reverse Nodes in k-Group",
         info:  `
             <p>Key points to remember:</p>
             <ul style="margin-left: 20px; margin-top: 8px;">
@@ -827,7 +902,7 @@ const sheetData = [
         `,
         ytUrl: "#",
         platform: "LeetCode",
-        platformUrl: "https://leetcode.com/",
+        platformUrl: "https://leetcode.com/problems/reverse-nodes-in-k-group/description/",
         solutionImages: [
           {
             src: "Questions/p51.1.png",
@@ -836,6 +911,73 @@ const sheetData = [
           {
             src: "Questions/p51.png",
             alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 218,
+        title: "Rotate List",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/rotate-list/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
+          }
+        ]
+      },
+      {
+        id: 219,
+        title: "Flattening of LL",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "GFG",
+        platformUrl: "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+        solutionImages: [
+          {
+            src: "Questions/p51.1.png",
+            alt: "Solution :Find no. of Vowels"
+          },
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Find no. of Vowels"
+          }
+        ]
+      },
+      {
+        id: 220,
+        title: "Copy List with Random Pointer",
+        info:  `
+            <p>Key points to remember:</p>
+            <ul style="margin-left: 20px; margin-top: 8px;">
+              <li>Use a HashSet to store vowels for O(1) lookups.</li>
+              <li>Iterate through the string in O(N) time complexity.</li>
+              <li>Space Complexity: O(1) constant auxiliary space.</li>
+            </ul>
+        `,
+        ytUrl: "#",
+        platform: "LeetCode",
+        platformUrl: "https://leetcode.com/problems/copy-list-with-random-pointer/description/",
+        solutionImages: [
+          {
+            src: "Questions/p51.png",
+            alt: "Solution :Sort the String"
           }
         ]
       }      
