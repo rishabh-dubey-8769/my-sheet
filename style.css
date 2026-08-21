@@ -514,6 +514,7 @@ body {
   height: 40px;
   object-fit: contain;
   border-radius: 50%;
+  display: block;
 }
 
 /* Info Modal Dialog */
